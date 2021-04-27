@@ -14,7 +14,10 @@ A curated list of graph reinforcement learning papers.
 ### 2020
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
+| 2020 | **Graph Convolutional Reinforcement Learning**  | ICLR 2020  |  [Link](https://arxiv.org/pdf/1810.09202.pdf)  | [Link](https://github.com/PKU-AI-Edge/DGN/) |
 | 2020 | **Policy-GNN: Aggregation Optimization for Graph Neural Networks**  | KDD 2020  |  [Link](https://arxiv.org/pdf/2006.15097.pdf)  | [Link](https://github.com/lhenry15/Policy-GNN) |
+| 2020 | **Dynamic Electronic Toll Collection via Multi-Agent Deep Reinforcement Learning with Edge-Based Graph Convolutional Networks**  | IJCAI 2020  |  [Link](https://www.ijcai.org/Proceedings/2019/0635.pdf)  | - |
+| 2020 | **Non-target-specific Node Injection Attacks on Graph Neural Networks: A Hierarchical Reinforcement Learning Approach**  | WWW 2020  |  [Link](http://faculty.ist.psu.edu/vhonavar/Papers/www20.pdf)  | - |
 | 2020 | **Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters**  | CIKM 2020  |  [Link](https://arxiv.org/pdf/2008.08692.pdf)  | [Link](https://github.com/safe-graph/DGFraud) |
 | 2020 | **Reinforcement Learning Enhanced Heterogeneous Graph Neural Network**  | arXiv  |  [Link](https://arxiv.org/pdf/2010.13735.pdf)  | [Link](https://github.com/zhiqiangzhongddu/RL-HGNN) |
 
@@ -24,8 +27,14 @@ A curated list of graph reinforcement learning papers.
 | 2019 | **Deep Reinforcement Learning meets Graph Neural Networks: exploring a routing optimization use case**  | arXiv  |  [Link](https://arxiv.org/pdf/1910.07421.pdf)  | [Link](https://github.com/knowledgedefinednetworking/DRL-GNN) |
 
 ## Non-GNN Papers
+### 2020
+| Year   | Title  | Venue |  Paper | Code  |
+|-------|--------|--------|--------|-----------|
+| 2020 | **Learning Heuristics over Large Graphs via Deep Reinforcement Learning**  | NeurIPS 2020  |  [Link](https://arxiv.org/pdf/1903.03332.pdf)  | [Link](https://github.com/idea-iitd/GCOMB) |
 
 ### 2019
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
+| 2019 | **Representation Learning on Graphs: A Reinforcement Learning Application**  | AISTATS 2019  |  [Link](http://proceedings.mlr.press/v89/madjiheurem19a/madjiheurem19a.pdf)  | [Link](https://github.com/LASP-UCL/Graph-RL) |
 | 2019 | **Reinforcement Knowledge Graph Reasoning for Explainable Recommendation**  | arXiv  |  [Link](https://arxiv.org/pdf/1906.05237.pdf)  | [Link](https://github.com/orcax/PGPR) |
+| 2019 | **Explainable Knowledge Graph-based Recommendation via Deep Reinforcement Learning**  | arXiv  |  [Link](https://arxiv.org/pdf/1906.09506.pdf)  | - |

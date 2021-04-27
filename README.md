@@ -32,7 +32,7 @@ A curated list of graph reinforcement learning papers.
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
 | 2020 | **Learning Heuristics over Large Graphs via Deep Reinforcement Learning**  | NeurIPS 2020  |  [Link](https://arxiv.org/pdf/1903.03332.pdf)  | [Link](https://github.com/idea-iitd/GCOMB) |
-| 2020 | **Learning Heuristics over Large Graphs via Deep Reinforcement Learning**  | ICLR 2020  |  [Link](https://arxiv.org/pdf/2001.08837.pdf)  | [Link](https://github.com/rajammanabrolu/KG-A2C) |
+| 2020 | **Graph Constrained Reinforcement Learning for Natural Language Action Spaces**  | ICLR 2020  |  [Link](https://arxiv.org/pdf/2001.08837.pdf)  | [Link](https://github.com/rajammanabrolu/KG-A2C) |
 | 2020 | **Reinforcement Learning Based Graph-to-Sequence Model for Natural Question Generation**  | ICLR 2020  |  [Link](https://arxiv.org/pdf/1908.04942.pdf)  | [Link](https://github.com/hugochan/RL-based-Graph2Seq-for-NQG) |
 
 ### 2019

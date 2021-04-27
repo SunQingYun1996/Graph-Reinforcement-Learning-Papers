@@ -26,6 +26,7 @@ A curated list of graph reinforcement learning papers.
 |-------|--------|--------|--------|-----------|
 | 2019 | **Deep Reinforcement Learning meets Graph Neural Networks: exploring a routing optimization use case**  | CIKM 2019  |  [Link](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/wang-2019-order-free.pdf)  | [Link](https://github.com/WOW5678/CompNet) |
 | 2019 | **Order-free Medicine Combination Prediction with Graph Convolutional Reinforcement Learning**  | arXiv  |  [Link](https://arxiv.org/pdf/1910.07421.pdf)  | [Link](https://github.com/knowledgedefinednetworking/DRL-GNN) |
+| 2019 | **GraphNAS: Graph Neural Architecture Search with Reinforcement Learning**  | arXiv  |  [Link](https://arxiv.org/pdf/1904.09981.pdf)  | [Link](https://github.com/GraphNAS/GraphNAS) |
 
 ## Non-GNN Papers
 ### 2020

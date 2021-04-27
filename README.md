@@ -24,17 +24,20 @@ A curated list of graph reinforcement learning papers.
 ### 2019
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
-| 2019 | **Deep Reinforcement Learning meets Graph Neural Networks: exploring a routing optimization use case**  | arXiv  |  [Link](https://arxiv.org/pdf/1910.07421.pdf)  | [Link](https://github.com/knowledgedefinednetworking/DRL-GNN) |
+| 2019 | **Deep Reinforcement Learning meets Graph Neural Networks: exploring a routing optimization use case**  | CIKM 2019  |  [Link](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/wang-2019-order-free.pdf)  | [Link](https://github.com/WOW5678/CompNet) |
+| 2019 | **Order-free Medicine Combination Prediction with Graph Convolutional Reinforcement Learning**  | arXiv  |  [Link](https://arxiv.org/pdf/1910.07421.pdf)  | [Link](https://github.com/knowledgedefinednetworking/DRL-GNN) |
 
 ## Non-GNN Papers
 ### 2020
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
 | 2020 | **Learning Heuristics over Large Graphs via Deep Reinforcement Learning**  | NeurIPS 2020  |  [Link](https://arxiv.org/pdf/1903.03332.pdf)  | [Link](https://github.com/idea-iitd/GCOMB) |
+| 2020 | **Learning Heuristics over Large Graphs via Deep Reinforcement Learning**  | ICLR 2020  |  [Link](https://arxiv.org/pdf/2001.08837.pdf)  | [Link](https://github.com/rajammanabrolu/KG-A2C) |
+| 2020 | **Reinforcement Learning Based Graph-to-Sequence Model for Natural Question Generation**  | ICLR 2020  |  [Link](https://arxiv.org/pdf/1908.04942.pdf)  | [Link](https://github.com/hugochan/RL-based-Graph2Seq-for-NQG) |
 
 ### 2019
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
 | 2019 | **Representation Learning on Graphs: A Reinforcement Learning Application**  | AISTATS 2019  |  [Link](http://proceedings.mlr.press/v89/madjiheurem19a/madjiheurem19a.pdf)  | [Link](https://github.com/LASP-UCL/Graph-RL) |
-| 2019 | **Reinforcement Knowledge Graph Reasoning for Explainable Recommendation**  | arXiv  |  [Link](https://arxiv.org/pdf/1906.05237.pdf)  | [Link](https://github.com/orcax/PGPR) |
+| 2019 | **Reinforcement Knowledge Graph Reasoning for Explainable Recommendation**  | SIGIR 2019  |  [Link](https://arxiv.org/pdf/1906.05237.pdf)  | [Link](https://github.com/orcax/PGPR) |
 | 2019 | **Explainable Knowledge Graph-based Recommendation via Deep Reinforcement Learning**  | arXiv  |  [Link](https://arxiv.org/pdf/1906.09506.pdf)  | - |

@@ -1,7 +1,7 @@
-# When Graph Neural Network Meets Reinforcement Learning: Papers and Resources
+# Graph Reinforcement Learning Papers and Resources
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-A curated list of graph representation learning papers adopting reinforcement learning into graph neural networks.
+A curated list of graph reinforcement learning papers.
 
 ## GNN Papers
 
@@ -16,3 +16,16 @@ A curated list of graph representation learning papers adopting reinforcement le
 |-------|--------|--------|--------|-----------|
 | 2020 | **Policy-GNN: Aggregation Optimization for Graph Neural Networks**  | KDD 2020  |  [Link](https://arxiv.org/pdf/2006.15097.pdf)  | [Link](https://github.com/lhenry15/Policy-GNN) |
 | 2020 | **Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters**  | CIKM 2020  |  [Link](https://arxiv.org/pdf/2008.08692.pdf)  | [Link](https://github.com/safe-graph/DGFraud) |
+| 2020 | **Reinforcement Learning Enhanced Heterogeneous Graph Neural Network**  | arXiv  |  [Link](https://arxiv.org/pdf/2010.13735.pdf)  | [Link](https://github.com/zhiqiangzhongddu/RL-HGNN) |
+
+### 2019
+| Year   | Title  | Venue |  Paper | Code  |
+|-------|--------|--------|--------|-----------|
+| 2019 | **Deep Reinforcement Learning meets Graph Neural Networks: exploring a routing optimization use case**  | arXiv  |  [Link](https://arxiv.org/pdf/1910.07421.pdf)  | [Link](https://github.com/knowledgedefinednetworking/DRL-GNN) |
+
+## Non-GNN Papers
+
+### 2019
+| Year   | Title  | Venue |  Paper | Code  |
+|-------|--------|--------|--------|-----------|
+| 2019 | **Reinforcement Knowledge Graph Reasoning for Explainable Recommendation**  | arXiv  |  [Link](https://arxiv.org/pdf/1906.05237.pdf)  | [Link](https://github.com/orcax/PGPR) |

@@ -1,4 +1,4 @@
-# Graph Reinforcement Learning Papers and Resources
+# Graph Reinforcement Learning Papers
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 A curated list of graph reinforcement learning papers.

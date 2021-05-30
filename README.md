@@ -4,14 +4,14 @@
 A curated list of graph reinforcement learning papers.
 
 ## GNN Papers
-
-### 2021
+### Enhance GNN by RL
+#### 2021
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
 | 2021 | **SUGAR: Subgraph Neural Network with Reinforcement Pooling and Self-Supervised Mutual Information Mechanism**  | WWW 2021  |  [Link](https://arxiv.org/pdf/2101.08170.pdf)  | [Link](https://github.com/SunQingYun1996/SUGAR) |
 | 2021 | **Reinforced Neighborhood Selection Guided Multi-Relational Graph Neural Networks**  | arXiv  |  [Link](https://arxiv.org/pdf/2104.07886.pdf)  | [Link](https://github.com/safe-graph/RioGNN) |
 
-### 2020
+#### 2020
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
 | 2020 | **Graph Convolutional Reinforcement Learning**  | ICLR 2020  |  [Link](https://arxiv.org/pdf/1810.09202.pdf)  | [Link](https://github.com/PKU-AI-Edge/DGN/) |
@@ -21,7 +21,7 @@ A curated list of graph reinforcement learning papers.
 | 2020 | **Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters**  | CIKM 2020  |  [Link](https://arxiv.org/pdf/2008.08692.pdf)  | [Link](https://github.com/safe-graph/DGFraud) |
 | 2020 | **Reinforcement Learning Enhanced Heterogeneous Graph Neural Network**  | arXiv  |  [Link](https://arxiv.org/pdf/2010.13735.pdf)  | [Link](https://github.com/zhiqiangzhongddu/RL-HGNN) |
 
-### 2019
+#### 2019
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
 | 2019 | **Deep Reinforcement Learning meets Graph Neural Networks: exploring a routing optimization use case**  | CIKM 2019  |  [Link](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/wang-2019-order-free.pdf)  | [Link](https://github.com/WOW5678/CompNet) |
@@ -29,10 +29,14 @@ A curated list of graph reinforcement learning papers.
 | 2019 | **GraphNAS: Graph Neural Architecture Search with Reinforcement Learning**  | arXiv  |  [Link](https://arxiv.org/pdf/1904.09981.pdf)  | [Link](https://github.com/GraphNAS/GraphNAS) |
 | 2019 | **Auto-GNN: Neural Architecture Search of Graph Neural Networks**  | arXiv  |  [Link](https://arxiv.org/pdf/1909.03184.pdf)  | - |
 
-### 2018
+#### 2018
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
 | 2018 | **Adversarial Attack on Graph Structured Data**  | ICML 2018  |  [Link](http://proceedings.mlr.press/v80/dai18b/dai18b.pdf)  | [Link](https://github.com/Hanjun-Dai/graph_adversarial_attack) |
+
+### Enhance RL by GNN
+#### 2020
+TODO
 
 
 ## Non-GNN Papers

@@ -9,7 +9,7 @@ A curated list of graph reinforcement learning papers.
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
 | 2021 | **SUGAR: Subgraph Neural Network with Reinforcement Pooling and Self-Supervised Mutual Information Mechanism**  | WWW 2021  |  [Link](https://arxiv.org/pdf/2101.08170.pdf)  | [Link](https://github.com/SunQingYun1996/SUGAR) |
-| 2021 | **How to Stop Epidemics: Controlling Graph Dynamics with Reinforcement Learning and Graph Neural Networks**  | ICML 2021  |  [Link](https://arxiv.org/pdf/2010.05313.pdf)  | [Link] |
+| 2021 | **How to Stop Epidemics: Controlling Graph Dynamics with Reinforcement Learning and Graph Neural Networks**  | ICML 2021  |  [Link](https://arxiv.org/pdf/2010.05313.pdf)  | - |
 | 2021 | **Reinforced Neighborhood Selection Guided Multi-Relational Graph Neural Networks**  | arXiv  |  [Link](https://arxiv.org/pdf/2104.07886.pdf)  | [Link](https://github.com/safe-graph/RioGNN) |
 
 #### 2020

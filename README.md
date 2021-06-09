@@ -15,7 +15,6 @@ A curated list of graph reinforcement learning papers.
 #### 2020
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
-| 2020 | **Graph Convolutional Reinforcement Learning**  | ICLR 2020  |  [Link](https://arxiv.org/pdf/1810.09202.pdf)  | [Link](https://github.com/PKU-AI-Edge/DGN/) |
 | 2020 | **Policy-GNN: Aggregation Optimization for Graph Neural Networks**  | KDD 2020  |  [Link](https://arxiv.org/pdf/2006.15097.pdf)  | [Link](https://github.com/lhenry15/Policy-GNN) |
 | 2020 | **Dynamic Electronic Toll Collection via Multi-Agent Deep Reinforcement Learning with Edge-Based Graph Convolutional Networks**  | IJCAI 2020  |  [Link](https://www.ijcai.org/Proceedings/2019/0635.pdf)  | - |
 | 2020 | **Adversarial Attacks on Graph Neural Networks via Node Injections: A Hierarchical Reinforcement Learning Approach**  | WWW 2020  |  [Link](https://par.nsf.gov/servlets/purl/10146600)  | - |
@@ -35,9 +34,17 @@ A curated list of graph reinforcement learning papers.
 |-------|--------|--------|--------|-----------|
 | 2018 | **Adversarial Attack on Graph Structured Data**  | ICML 2018  |  [Link](http://proceedings.mlr.press/v80/dai18b/dai18b.pdf)  | [Link](https://github.com/Hanjun-Dai/graph_adversarial_attack) |
 
+
 ### Enhance RL by GNN
 #### 2020
+| Year   | Title  | Venue |  Paper | Code  |
+|-------|--------|--------|--------|-----------|
+| 2020 | **Graph Convolutional Reinforcement Learning**  | ICLR 2020  |  [Link](https://arxiv.org/pdf/1810.09202.pdf)  | [Link](https://github.com/PKU-AI-Edge/DGN/) |
+#### 2019
 TODO
+#### 2018
+TODO
+
 
 
 ## Non-GNN Papers

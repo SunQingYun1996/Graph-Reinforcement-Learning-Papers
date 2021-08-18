@@ -49,6 +49,11 @@ TODO
 
 
 ## Non-GNN Papers
+### 2021
+| Year   | Title  | Venue |  Paper | Code  |
+|-------|--------|--------|--------|-----------|
+| 2021 | **Reinforced Anchor Knowledge Graph Generation for News Recommendation Reasoning**  | KDD 2021  |  [Link](https://www.microsoft.com/en-us/research/uploads/prod/2021/05/KDD2021-anchorkg.pdf )  | [Link](https://github.com/danyang-liu/AnchorKG) |
+
 ### 2020
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|

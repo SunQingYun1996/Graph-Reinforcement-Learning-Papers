@@ -12,6 +12,9 @@ A curated list of graph reinforcement learning papers.
 | 2021 | **How to Stop Epidemics: Controlling Graph Dynamics with Reinforcement Learning and Graph Neural Networks**  | ICML 2021  |  [Link](https://arxiv.org/pdf/2010.05313.pdf)  | - |
 | 2021 | **Reinforced Neighborhood Selection Guided Multi-Relational Graph Neural Networks**  | TOIS 2021  |  [Link](https://arxiv.org/pdf/2104.07886.pdf)  | [Link](https://github.com/safe-graph/RioGNN) |
 | 2021 | **ACE-HGNN: Adaptive Curvature Exploration Hyperbolic Graph Neural Network**  | ICDM 2021  |  [Link](https://arxiv.org/pdf/2110.07888.pdf)  | [Link](https://github.com/RingBDStack/ACE-HGNN) |
+| 2021 | **Dynamic graph convolutional network for long-term traffic flow prediction with reinforcement learning**  | Information Sciences 2021  |  [Link](https://www.sciencedirect.com/science/article/pii/S0020025521006976)  | - |
+| 2021 | **Controlling Graph Dynamics with Reinforcement Learning and Graph Neural Networks**  | ICML 2021  |  [Link](http://proceedings.mlr.press/v139/meirom21a/meirom21a.pdf)  | - |
+| 2021 | **On Explainability of Graph Neural Networks via Subgraph Explorations**  | ICML 2021  |  [Link](http://proceedings.mlr.press/v139/yuan21c/yuan21c.pdf)  | [Link](https://github.com/divelab/DIG) |
 
 #### 2020
 | Year   | Title  | Venue |  Paper | Code  |
@@ -54,6 +57,7 @@ TODO
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
 | 2021 | **Reinforced Anchor Knowledge Graph Generation for News Recommendation Reasoning**  | KDD 2021  |  [Link](https://www.microsoft.com/en-us/research/uploads/prod/2021/05/KDD2021-anchorkg.pdf )  | [Link](https://github.com/danyang-liu/AnchorKG) |
+| 2021 | **Reasoning Like Human: Hierarchical Reinforcement Learning for Knowledge Graph Reasoning**  | IJCAI 2021  |  [Link](https://www.ijcai.org/Proceedings/2020/0267.pdf)  | - |
 
 ### 2020
 | Year   | Title  | Venue |  Paper | Code  |
